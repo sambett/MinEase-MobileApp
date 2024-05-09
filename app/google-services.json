@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331657897235",
+    "project_id": "sing-up-login-realtime-57824",
+    "storage_bucket": "sing-up-login-realtime-57824.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331657897235:android:7c62bbbf59bddd3761e6e6",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPpgeoVrvTZqPgXp9EmGc_7g4wsyY3V-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

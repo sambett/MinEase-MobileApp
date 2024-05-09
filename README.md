@@ -1,6 +1,8 @@
 This is the first step in making a mobile app called EaseMind using Android Studio.
 For a start, the signup process was done using Firebase.
 It is still a work in progress.
+The focus so far is to experiment with different layouts and get used to the Android studio environment. 
+
 
 
 

@@ -9,7 +9,7 @@
 
 EaseMind is an educational project focused on exploring Android Studio's capabilities and experimenting with different layouts. The project currently implements basic authentication flows using Firebase and serves as a learning ground for Android development concepts.
 
-🎥 **Project Demo**: [Watch the demonstration video]([your_youtube_link_here](https://www.youtube.com/watch?v=0sGoKOQ49L0))
+
 
 ## ✨ Current Features
 
@@ -52,7 +52,7 @@ EaseMind is an educational project focused on exploring Android Studio's capabil
 ## 🎬 Demo
 
 Check out our current progress in this demonstration video:
-[EaseMind Project Demo](your_youtube_link_here)
+[EaseMind Project Demo](https://www.youtube.com/watch?v=0sGoKOQ49L0)
 
 ## 🚀 Getting Started
 
